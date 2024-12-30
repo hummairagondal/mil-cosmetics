@@ -33,7 +33,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {}
         },
         "variant_picker": {
@@ -72,6 +71,7 @@
         "buy_buttons",
         "share"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
@@ -134,6 +134,7 @@
         "collapsible_row_zjwKVQ",
         "collapsible_row_beLW3P"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "",
@@ -167,11 +168,81 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "featured_product_NWExCa": {
+      "type": "featured-product",
+      "blocks": {
+        "text_KnPYjC": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_LzBqeC": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ec7JEi": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_e8wdWM": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_p6UhLG": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_f9f9UA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_nYRR8Q": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_KnPYjC",
+        "title_LzBqeC",
+        "price_ec7JEi",
+        "variant_picker_e8wdWM",
+        "quantity_selector_p6UhLG",
+        "buy_buttons_f9f9UA",
+        "share_nYRR8Q"
+      ],
+      "settings": {
+        "product": "lip-glowy-balm-berry-fruits-rouge",
+        "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "collapsible_content_Akn6nb",
-    "related-products"
+    "related-products",
+    "featured_product_NWExCa"
   ]
 }
