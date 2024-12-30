@@ -11,13 +11,100 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 76
       }
+    },
+    "image_banner_WRCfjf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jztTFz": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "text_CdkVRR": {
+          "type": "text",
+          "settings": {
+            "text": "Be part of a community that values healthy, beautiful lips. Discover the difference with Mil Cosmetics and enjoy lip care that truly delivers.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jztTFz",
+        "text_CdkVRR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/content-pixie-WdJ4WnLxyDs-unsplash_d26f8d13-663d-4437-a1dc-5b24248ff7ee.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_HAQXdh": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wFXXCg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_GH3Hq4": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_yLkCfx": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wFXXCg",
+        "text_GH3Hq4",
+        "buttons_yLkCfx"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_WRCfjf",
+    "image_banner_HAQXdh"
   ]
 }
