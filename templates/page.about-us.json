@@ -40,71 +40,93 @@
         "text_CdkVRR"
       ],
       "settings": {
-        "image": "shopify://shop_images/content-pixie-WdJ4WnLxyDs-unsplash_d26f8d13-663d-4437-a1dc-5b24248ff7ee.jpg",
+        "image": "shopify://shop_images/Screenshot_2024-12-30_213745.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
-    "image_banner_HAQXdh": {
-      "type": "image-banner",
+    "multirow_dLw9gx": {
+      "type": "multirow",
       "blocks": {
-        "heading_wFXXCg": {
-          "type": "heading",
+        "row_a9RL4w": {
+          "type": "row",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "image": "shopify://shop_images/Green_and_Grey_Cosmetics_Promotion_Instagram_Post.png",
+            "caption": "",
+            "heading": "Our Mission",
+            "text": "<p>We are committed to creating high-quality, cruelty-free, and eco-conscious lip care solutions by combining nature’s finest ingredients with advanced science, ensuring exceptional care for our customers while respecting the planet.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "text_GH3Hq4": {
-          "type": "text",
+        "row_cyWTHK": {
+          "type": "row",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "image": "shopify://shop_images/gempages_545872436478870694-d4c56377-6f2b-4535-9563-82b394838ab1.png",
+            "caption": "",
+            "heading": "Our Vision",
+            "text": "<p>We aim to create a world where everyone can experience the confidence of healthy, well-nourished lips. By blending nature and innovation, we’re redefining what lip care can achieve, one product at a time.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "buttons_yLkCfx": {
-          "type": "buttons",
+        "row_xWMnnF": {
+          "type": "row",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify://shop_images/Green_and_Grey_Cosmetics_Promotion_Instagram_Post_2.png",
+            "caption": "Caption",
+            "heading": "Our Philosophy",
+            "text": "<p>At Mil-Cosmetics, we believe in creating products that go beyond lip care to deliver a blend of nature and science. Every formula is thoughtfully crafted with high-quality, natural ingredients like Murumuru Butter, Shea Butter, and Hyaluronic Acid, ensuring deep hydration and protection for your lips. We are committed to sustainability and prioritize eco-conscious practices, all while focusing on providing visible results and a luxurious care experience.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_fxDBiC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/applying-lip-balm.jpg",
+            "caption": "",
+            "heading": "Our Impact",
+            "text": "<p>We has partnered with ReSurge International to advance first-generation women reconstructive surgeons in underserved parts of the world. <br/><br/>Together, we created the Pioneering Women in Reconstructive Surgery (PWRS) initiative to support these inspiring women through surgical training, leadership development and mentorship networking.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading_wFXXCg",
-        "text_GH3Hq4",
-        "buttons_yLkCfx"
+        "row_a9RL4w",
+        "row_cyWTHK",
+        "row_xWMnnF",
+        "row_fxDBiC"
       ],
-      "disabled": true,
       "settings": {
-        "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
+        "row_color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "image_banner_WRCfjf",
-    "image_banner_HAQXdh"
+    "multirow_dLw9gx"
   ]
 }
