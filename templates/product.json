@@ -71,7 +71,6 @@
         "buy_buttons",
         "share"
       ],
-      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
@@ -223,6 +222,7 @@
         "buy_buttons_f9f9UA",
         "share_nYRR8Q"
       ],
+      "disabled": true,
       "settings": {
         "product": "lip-glowy-balm-berry-fruits-rouge",
         "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
