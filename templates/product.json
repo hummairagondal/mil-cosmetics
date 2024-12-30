@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -24,6 +33,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {}
         },
         "variant_picker": {
@@ -64,7 +74,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -78,8 +88,70 @@
         "padding_bottom": 24
       }
     },
+    "collapsible_content_Akn6nb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_Wk448Q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Key Benefits:",
+            "icon": "check_mark",
+            "row_content": "<h4>Key Benefits:</h4><ul><li><strong>Powerful Hydration</strong>: Murumuru and shea butters provide intense moisture, deeply hydrating your lips.</li><li><strong>Long-Lasting Protection</strong>: Locks in moisture for extended periods, helping to keep chapped lips at bay.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nmHLVk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Main Ingredients:",
+            "icon": "check_mark",
+            "row_content": "<h4>Main Ingredients:</h4><ul><li><strong>Murumuru Butter</strong>: Known for its rich moisturizing properties.</li><li><strong>Shea Butter</strong>: Deeply nourishes and softens lips.</li><li><strong>Jojoba Oil</strong>: Provides lightweight hydration and prevents dryness.</li><li><strong>Cocoa Butter</strong>: Helps soothe and heal cracked lips.</li><li><strong>Hyaluronic Acid</strong>: Retains moisture for plumper, healthier-looking lips.</li><li><strong>Coconut Oil</strong>: Adds a protective barrier against environmental factors.</li><li><strong>Apricot Kernel Oil</strong>: Enhances softness and gives lips a smooth texture.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zjwKVQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Directions for Use:",
+            "icon": "check_mark",
+            "row_content": "<h4>Directions for Use:</h4><ol><li>Apply the lip balm directly onto clean, dry lips.</li><li>Use as needed throughout the day for continuous hydration and protection.</li><li>Store the product away from excessive heat and direct sunlight to maintain its quality.</li></ol>",
+            "page": ""
+          }
+        },
+        "collapsible_row_beLW3P": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to use:",
+            "icon": "check_mark",
+            "row_content": "<p>HOW IT WORKS</p><h3>01. Apply Evenly</h3><p>Glide the lip balm directly onto clean, dry lips.</p><h3>02. Reapply When Needed:</h3><p>Use throughout the day to keep your lips hydrated and soft.</p><h3>03. Store Properly</h3><p>Protect the product from excessive heat and direct sunlight.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_Wk448Q",
+        "collapsible_row_nmHLVk",
+        "collapsible_row_zjwKVQ",
+        "collapsible_row_beLW3P"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
+        "container_color_scheme": "scheme-644028b2-f21f-4bf3-81c5-30c1dead5bfc",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -99,6 +171,7 @@
   },
   "order": [
     "main",
+    "collapsible_content_Akn6nb",
     "related-products"
   ]
 }
