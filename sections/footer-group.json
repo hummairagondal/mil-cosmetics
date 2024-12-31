@@ -50,22 +50,22 @@
         "link_list_qpVf3T": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Our Shop",
+            "menu": "main-menu"
           }
         },
         "link_list_RN9UpX": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Our Policies",
             "menu": "footer"
           }
         },
         "link_list_ikPh6g": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "About Us",
+            "menu": "customer-account-main-menu"
           }
         }
       },
