@@ -420,15 +420,22 @@
   }
 }
 
-@media screen and (min-width: 750px) {
+
+.banner__box {
+    width: auto;
+    max-width: 71rem;
+    min-width: 45rem;
+    background: bottom;
+  }
+
+/* @media screen and (min-width: 750px) {
   .banner__box {
     width: auto;
     max-width: 71rem;
     min-width: 45rem;
     background: bottom;
   }
-}
-
+} */
 
 @media screen and (min-width: 1400px) {
   .banner__box {
