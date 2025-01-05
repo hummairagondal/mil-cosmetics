@@ -432,6 +432,7 @@
 @media screen and (min-width: 1400px) {
   .banner__box {
     max-width: 90rem;
+    background: bottom;
   }
 }
 
