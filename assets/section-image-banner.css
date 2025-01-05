@@ -427,9 +427,7 @@
     background: bottom;
   }
 }
-.banner__content banner__content--bottom-right page-width scroll-trigger animate--slide-in{
-padding: 94px 120px
-}
+
 
 @media screen and (min-width: 1400px) {
   .banner__box {
