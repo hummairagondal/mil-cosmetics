@@ -414,28 +414,21 @@
 }
 
 @media screen and (max-width: 749px) {
-  .banner--stacked .banner__box {
+   .banner__box {
     width: 100%;
     background: bottom;
   }
 }
 
-
-.banner__box {
-    width: auto;
-    max-width: 71rem;
-    min-width: 45rem;
-    background: bottom;
-  }
-
-/* @media screen and (min-width: 750px) {
+@media screen and (min-width: 750px) {
   .banner__box {
     width: auto;
     max-width: 71rem;
     min-width: 45rem;
     background: bottom;
   }
-} */
+}
+
 
 @media screen and (min-width: 1400px) {
   .banner__box {
