@@ -334,7 +334,7 @@
 
   .banner:not(.banner--mobile-bottom) .field__input,
   .banner--mobile-bottom:not(.banner--stacked) .banner__box.color-scheme-1 {
-    background: aliceblue;
+    background: transparent;
   }
 }
 
