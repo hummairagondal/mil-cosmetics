@@ -257,9 +257,6 @@
     position: relative;
   }
 
-  .banner::before {
-    display: none !important;
-  }
 
   .banner--stacked .banner__media-image-half {
     width: 100%;
@@ -360,7 +357,7 @@
 
   .banner--desktop-transparent .banner__box {
     padding: 4rem 0;
-    background: bottom;
+    background: transparen;
     max-width: 89rem;
     border: none;
     border-radius: 0;
