@@ -257,6 +257,9 @@
     position: relative;
   }
 
+  .banner::before {
+    display: none !important;
+  }
 
   .banner--stacked .banner__media-image-half {
     width: 100%;
@@ -357,7 +360,7 @@
 
   .banner--desktop-transparent .banner__box {
     padding: 4rem 0;
-    background: transparen;
+    background: transparent;
     max-width: 89rem;
     border: none;
     border-radius: 0;
@@ -422,10 +425,17 @@
     width: auto;
     max-width: 71rem;
     min-width: 45rem;
-    background: bottom;
+    background: inherit;
   }
 }
-
+@media screen and (max-width: 750px) {
+  .banner__box {
+    width: auto;
+    max-width: 71rem;
+    min-width: 45rem;
+    background: inherit;
+  }
+}
 
 @media screen and (min-width: 1400px) {
   .banner__box {
