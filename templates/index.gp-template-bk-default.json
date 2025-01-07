@@ -8,6 +8,267 @@
  * ------------------------------------------------------------
  */
 {
+  "sections": {
+    "gp_shopify_original_section_545874014996792257": {
+      "type": "gp-section-545874014996792257",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "a591130fc78b11e742c0dd10cbb6167ca232bc71b716103422567eb46f90d3e7_1_1"
+      }
+    },
+    "gp_shopify_original_section_545875982494466931": {
+      "type": "gp-section-545875982494466931",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "b469f3f2a3cef586ee32b82139fc2046b1d4edd7f97ac27ead5cd659d9b2cef5_1_1"
+      }
+    },
+    "gp_shopify_original_section_545874261856748403": {
+      "type": "gp-section-545874261856748403",
+      "blocks": {
+        "essential_countdown_app_block_hKHCmy": {
+          "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm5j330or3904219yfh4mza1fq"
+          }
+        }
+      },
+      "block_order": [
+        "essential_countdown_app_block_hKHCmy"
+      ],
+      "settings": {
+        "section_preload": "false",
+        "checksum": "8f0fbe35754264563a7288e1f953bca77dc06737918a8d24118c9faa38c67631_1_1",
+        "ggFb4ZXY1Ke_text": "<p>Best Seller<\/p>",
+        "gg_IROySf6Z_text": "<p>Say Goodbye to Chapped Lips!<\/p>",
+        "gg9tsl_XlEF_text": "<p>2,500+ Verified Reviews!<\/p>",
+        "ggmxsPYolfx_text": "<p>Bundle &amp; Save<\/p>",
+        "ggT21o_3WAu_text": "<p>15% off + Freeshipping + Skip &amp; Cancel Anytime<\/p>",
+        "gghuj7G_WN8_label": "Add to cart",
+        "gghuj7G_WN8_outOfStockLabel": "Out of stock",
+        "gghuj7G_WN8_unavailableLabel": "Unavailable",
+        "ggktkHbrhwW_text": "<p>Briana M. <strong>Verified Buyer<\/strong><\/p>",
+        "ggbjPyTKngY_text": "<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt culpa qui officia deserunt mollitia animi<\/p>",
+        "ggopcjnW5Td_childItem_0": "<p>Application<\/p>",
+        "ggopcjnW5Td_childItem_1": "<p>Key Ingredients<\/p>",
+        "gghYvAUm2g-_childItem_0": "<p><strong>Powerful Hydration<\/strong>: Murumuru and shea butters provide intense moisture, deeply hydrating your lips.<\/p>",
+        "gghYvAUm2g-_childItem_1": "<p><strong>Long-Lasting Protection<\/strong>: Locks in moisture for extended periods, helping to keep chapped lips at bay.<\/p>",
+        "ggQfvhJvoLZ_text": "<p>Main Ingredients:<\/p><ul>\n<li>\n<strong>Murumuru Butter<\/strong>: Known for its rich moisturizing properties.<\/li>\n<li>\n<strong>Shea Butter<\/strong>: Deeply nourishes and softens lips.<\/li>\n<li>\n<strong>Jojoba Oil<\/strong>: Provides lightweight hydration and prevents dryness.<\/li>\n<li>\n<strong>Cocoa Butter<\/strong>: Helps soothe and heal cracked lips.<\/li>\n<li>\n<strong>Hyaluronic Acid<\/strong>: Retains moisture for plumper, healthier-looking lips.<\/li>\n<li>\n<strong>Coconut Oil<\/strong>: Adds a protective barrier against environmental factors.<\/li>\n<li>\n<strong>Apricot Kernel Oil<\/strong>: Enhances softness and gives lips a smooth texture.<\/li>\n<\/ul>",
+        "ggeWAY051ZB_text": "<p>500+  Reviews!<\/p>",
+        "gg7iKHU7lsr_text": "<p>But I must explain to you how all this mistaken<\/p>",
+        "gg3jF_wgXt2_text": "<p>At vero eos et accusamus et iusto odio dignissimos<\/p>",
+        "ggfcGgs0GHF_label": "Add",
+        "ggfcGgs0GHF_outOfStockLabel": "Out of stock",
+        "ggfcGgs0GHF_unavailableLabel": "Unavailable",
+        "gg9T-MC_e6u_text": "<p>500+  Reviews!<\/p>",
+        "ggYkPp4j90W_text": "<p>But I must explain to you how all this mistaken<\/p>",
+        "ggMp7I9ETCk_text": "<p>At vero eos et accusamus et iusto odio dignissimos<\/p>",
+        "ggMDKRz7Pxs_label": "Add",
+        "ggMDKRz7Pxs_outOfStockLabel": "Out of stock",
+        "ggMDKRz7Pxs_unavailableLabel": "Unavailable"
+      }
+    },
+    "gp_shopify_original_section_546448092388393803": {
+      "type": "gp-section-546448092388393803",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "7fc57058e21b741dad6e67202f505cb0dc47ab7980ea2a3ea6027583a7b18dc1_1_1",
+        "ggYJluBCR5h_text": "Trusted by Customers Worldwide to Nourish and Hydrate Lips Naturally!",
+        "ggGur2vmUbE_text": "<p>We’re a values-driven company that provides affordable, intuitive.<\/p>",
+        "ggmgX_6xwce_text": "5,000+",
+        "ggtJK1bxUBp_text": "<p>Monthly Users<\/p>",
+        "ggmq7OqLx8o_text": "95%",
+        "ggLkRE_v_Be_text": "<p>Repeat Purchase Rate<\/p>",
+        "ggr3AVyJFYB_text": "95%",
+        "gge-DpEgZFB_text": "<p>Satisfied Customer Rate<\/p>"
+      }
+    },
+    "gp_shopify_original_section_546443897950176498": {
+      "type": "gp-section-546443897950176498",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "20fc754105da2460acddc448eba8a8d8f4f8d2df6040b1bba777116d0f8cc675_1_1"
+      }
+    },
+    "gp_shopify_original_section_545956177335289037": {
+      "type": "gp-section-545956177335289037",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "64894ffd9a3a725341e9b2aea9cf1d2746fa4ff8bea4756a1f2b04423f6d96c8_1_1",
+        "ggmoSOQBEhZ_text": "<p>Why should you choose<br>our product?<\/p>",
+        "ggI-hLzU2te_text": "<p>Experience our prestigious after-sales service.<\/p>",
+        "ggeAVuCDVtk_text": "<p>Free Shipping<\/p>",
+        "ggNFIbO7Dst_text": "<p>Free shipping on any order of $150 <\/p><p>or more.<\/p>",
+        "ggrCs0jZuWD_text": "<p>Full Refund<\/p>",
+        "ggFbqlnNNxL_text": "<p>If your product aren’t perfect, return them for a full refund<\/p>",
+        "ggmG66o6p10_text": "<p>Secure Online Payment<\/p>",
+        "gg4PDvDGumd_text": "<p>secure payment<br>worldwide<\/p>",
+        "ggAM9vLoES0_text": "<p>Free Shipping<\/p>",
+        "ggfyOISPRo0_text": "<p>Free shipping on any order of $150 <\/p><p>or more.<\/p>",
+        "gg2PjLSzbHQ_text": "<p>Full Refund<\/p>",
+        "ggCZUmDWGJb_text": "<p>If your product aren’t perfect, return them for a full refund<\/p>",
+        "gg82pRUSU4K_text": "<p>Secure Online Payment<\/p>",
+        "ggb7hB5mfMm_text": "<p>secure payment<br>worldwide<\/p>"
+      }
+    },
+    "gp_shopify_original_section_545968500250772317": {
+      "type": "gp-section-545968500250772317",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "1350473f8ae47ee6884ba497d6be3a34c6e804d768ca7823d7fac485b8f9c66c_1_1",
+        "gg5ZrG9DHGp_text": "How to use:",
+        "ggFhHERMR3U_text": "<p>HOW IT WORKS<\/p>",
+        "gg-UrDvxZE8_text": "01. Apply Evenly",
+        "ggTN9FVLZFQ_text": "<p>Glide the lip balm directly onto clean, dry lips.<\/p>",
+        "ggxIUa-oW1Q_text": "02. Reapply When Needed:",
+        "ggXv5J1Gg4-_text": "<p>Use throughout the day to keep your lips hydrated and soft.<\/p>",
+        "ggpehDSIHWI_text": "03. Store Properly",
+        "gg_-bl03cNO_text": "<p>Protect the product from excessive heat and direct sunlight.<\/p>"
+      }
+    },
+    "gp_shopify_original_section_545971245758284610": {
+      "type": "gp-section-545971245758284610",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "3e3ae2688ab402763cde7f906d9d158f7394f5af9c3082a482ced0fcec4069a2_1_1",
+        "ggcym8a8iFo_text": "How to use:",
+        "ggQiwIR12Gd_text": "<p>HOW IT WORKS<\/p>",
+        "gghn5hQR1m2_text": "01. Apply Evenly",
+        "ggRgGt5ULFQ_text": "<p>Glide the lip balm directly onto clean, dry lips.<\/p>",
+        "ggTLXnkZuwx_text": "02. Reapply When Needed:",
+        "ggzP_cuHAok_text": "<p>Use throughout the day to keep your lips hydrated and soft.<\/p>",
+        "ggfR427zFRl_text": "03. Store Properly",
+        "ggUg9zTCsjK_text": "<p>Protect the product from excessive heat and direct sunlight.<\/p>"
+      }
+    },
+    "gp_shopify_original_section_545874541683934368": {
+      "type": "gp-section-545874541683934368",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "4fa87d18727842f579ca36419b5e8ff5f4b6e383b183bb1dbb0990923719a7c8_1_1",
+        "ggOftiiD9aN_text": "Ultimate Lip Care Solution",
+        "ggUKZg9giEN_text": "<p>Experience the perfect blend of natural ingredients with our hydrating lip balm. Packed with <strong>Murumuru Butter<\/strong>, <strong>Shea Butter<\/strong>, and a host of nourishing oils, this balm provides intense hydration while locking in moisture for hours. Its lightweight formula soothes, repairs, and protects your lips from dryness and environmental damage. Infused with <strong>Hyaluronic Acid<\/strong>, it ensures your lips stay plump, soft, and irresistibly smooth. Perfect for everyday use, it’s your go-to solution for chapped lips and ultimate lip care.<\/p><p><strong>Key Ingredients<\/strong>: Murumuru Butter, Shea Butter, Jojoba Oil, Cocoa Butter, Hyaluronic Acid, Coconut Oil, Apricot Kernel Oil.<br> <\/p>",
+        "ggUNWoYumif_label": "<p>Shop Now<\/p>"
+      }
+    },
+    "gp_shopify_original_section_545971002555761825": {
+      "type": "gp-section-545971002555761825",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "454477884056c7605b5ed037125ca305e7f63d9d665cd713bb2a6321374d6d2c_1_1",
+        "gg-AadV42PT_text": "Ultimate Lip Care Solution",
+        "ggHw8NEf6xU_text": "<p>Experience the perfect blend of natural ingredients with our hydrating lip balm. Packed with <strong>Murumuru Butter<\/strong>, <strong>Shea Butter<\/strong>, and a host of nourishing oils, this balm provides intense hydration while locking in moisture for hours. Its lightweight formula soothes, repairs, and protects your lips from dryness and environmental damage. Infused with <strong>Hyaluronic Acid<\/strong>, it ensures your lips stay plump, soft, and irresistibly smooth. Perfect for everyday use, it’s your go-to solution for chapped lips and ultimate lip care.<\/p><p><strong>Key Ingredients<\/strong>: Murumuru Butter, Shea Butter, Jojoba Oil, Cocoa Butter, Hyaluronic Acid, Coconut Oil, Apricot Kernel Oil.<br> <\/p>",
+        "gg6s5Ziyut-_label": "<p>Shop Now<\/p>"
+      }
+    },
+    "gp_shopify_original_section_545969649003529365": {
+      "type": "gp-section-545969649003529365",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "34a45a5b4a50d51455757f8f6d45255cfb744c374419e246505b949919a98448_1_1",
+        "gg6oE0f0pOD_text": "As Seen In"
+      }
+    },
+    "gp_shopify_original_section_545969200447881997": {
+      "type": "gp-section-545969200447881997",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "9ac60e96642ad3a9064fa960902a5d8520b7219d1f04000620c0cc56b463c0eb_1_1",
+        "ggh_BhOZpV5_text": "Hear What They Love",
+        "ggPclov6j9S_text": "<p>This lip balm keeps my lips soft and moisturized all day. I love the natural ingredients!<\/p>",
+        "gg6mtiMqUc7_text": "<p>It healed my cracked lips within days. The texture is so smooth and lightweight!<\/p>",
+        "gg3uxzah_4l_text": "<p><i>I use it daily, and my lips have never felt better. Totally worth it!<\/i><\/p>"
+      }
+    },
+    "gp_shopify_original_section_546012766901633858": {
+      "type": "gp-section-546012766901633858",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "8e664ca595ccf39342364c297774cc04dcc4e4da6e3e2ec4caeba6686b34688a_1_1",
+        "ggEvaR9UfGm_leftImageLabel": "Before",
+        "ggEvaR9UfGm_rightImageLabel": "After"
+      }
+    },
+    "gp_shopify_original_section_546441318671320306": {
+      "type": "gp-section-546441318671320306",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "42bd25410aee801b066ee69b27df4d5ebbe6f5508c6dea3be079d06b011a7193_1_1",
+        "ggpTopBGDYJ_leftImageLabel": "Before",
+        "ggpTopBGDYJ_rightImageLabel": "After"
+      }
+    },
+    "gp_shopify_original_section_545957870223491933": {
+      "type": "gp-section-545957870223491933",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "b8d715a53076539ceaf0b68da33b754d6833511e3d39442db40916b8fa21a452_1_1",
+        "ggwx2HaQKjr_text": "<p>Subscribe Today<\/p>",
+        "gg9XzYxVt9M_text": "<p>Sign up for exclusive content, special prizes, and latest update<\/p>",
+        "ggVptHg922d_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggVptHg922d_errorMessage": "Can’t send email. Please try again later.",
+        "ggVVQq29mXJ_placeholder": "Enter your email",
+        "ggEdEN8Ncl6_label": "Subscribe",
+        "ggRyGcoORNQ_text": "<p><strong>Our product<\/strong><\/p>",
+        "ggY_FN5-AUk_label": "<p>Home<\/p>",
+        "ggsCtqhT-6g_label": "<p>Our Lip blum<\/p>",
+        "ggqrGkMCosL_label": "<p>Reviews<\/p>",
+        "gg23PSoQiLB_label": "<p>Contact<\/p>",
+        "ggHe_FbkruA_text": "<p><strong>About Us<\/strong><\/p>",
+        "ggDCG_iLMOp_label": "<p>shipping policy<\/p>",
+        "ggG2Xgwht42_label": "<p>Refund policy<\/p>",
+        "ggW6ifuZoRB_label": "<p>Privacy Policy<\/p>",
+        "gg7OpLsNLqe_label": "<p>Term of Services<\/p>",
+        "ggZ9v74_tuS_text": "<p><strong>Help<\/strong><\/p>",
+        "ggYqFf4Mgt0_label": "Customer Service",
+        "ggO1tbnQJx7_label": "Returns &amp; Exchanges",
+        "ggme89jRvvX_label": "FAQs",
+        "ggM_sDD0MXK_label": "Contact Us",
+        "gglqd95A0JY_text": "<p><strong>Visit<\/strong><\/p>",
+        "gg7R6OedX34_text": "<p>261 NW 26th Street Miami. FL 33127<\/p>",
+        "ggox5mljgko_text": "<p>999-999-999<\/p>",
+        "gg5DqZnl86-_text": "<p>support@gmail.com<\/p>",
+        "ggKQdohX7mv_childItem_0": "<p>Our Product<\/p>",
+        "ggKQdohX7mv_childItem_1": "<p>About Us<\/p>",
+        "ggKQdohX7mv_childItem_2": "<p>Help<\/p>",
+        "ggKQdohX7mv_childItem_3": "<p>Visit<\/p>",
+        "ggybr-R2LDs_label": "<p>Home<\/p>",
+        "ggH8mgIEThj_label": "<p>Our Lip blam<\/p>",
+        "ggf-L3NKES5_label": "<p>Reviews<\/p>",
+        "ggDqs1ZGgS1_label": "<p>Contac<\/p>",
+        "gg0YrRvGuI6_label": "<p>Shipping Policy<\/p>",
+        "ggiDFJ60jC0_label": "<p>Privacy Policy<\/p>",
+        "ggjB4Zot6Qw_label": "<p>Refund Policy<\/p>",
+        "ggWZvYsaJWK_label": "<p>Term of services<\/p>",
+        "gglT9hQtbwM_label": "Customer Service",
+        "ggUkrTp05Nk_label": "Returns &amp; Exchanges",
+        "ggOR2dlvFIL_label": "FAQs",
+        "ggLa2BLmfPK_label": "Contact Us",
+        "ggb9dl0ArU0_text": "<p>261 NW 26th Street Miami. FL 33127<\/p>",
+        "ggImx8Art3C_text": "<p>999-999-999<\/p>",
+        "ggIJ7dPsstA_text": "<p>support@gmail.com<\/p>",
+        "ggMAZG2DrRG_text": "<p>Copyright © 2022 GemThemes. All Rights Reserved.<\/p>"
+      }
+    },
+    "1736260009647b1ad6": {
+      "type": "apps",
+      "blocks": {
+        "essential_countdown_app_block_36ybFM": {
+          "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm5j330or3904219yfh4mza1fq"
+          }
+        }
+      },
+      "block_order": [
+        "essential_countdown_app_block_36ybFM"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    }
+  },
   "order": [
     "gp_shopify_original_section_545874014996792257",
     "gp_shopify_original_section_545875982494466931",
@@ -23,99 +284,7 @@
     "gp_shopify_original_section_545969200447881997",
     "gp_shopify_original_section_546012766901633858",
     "gp_shopify_original_section_546441318671320306",
-    "gp_shopify_original_section_545957870223491933"
-  ],
-  "sections": {
-    "gp_shopify_original_section_545874014996792257": {
-      "settings": {
-        "checksum": "a591130fc78b11e742c0dd10cbb6167ca232bc71b716103422567eb46f90d3e7_1_1",
-        "section_preload": "true"
-      },
-      "type": "gp-section-545874014996792257"
-    },
-    "gp_shopify_original_section_545874261856748403": {
-      "settings": {
-        "checksum": "8f0fbe35754264563a7288e1f953bca77dc06737918a8d24118c9faa38c67631_1_1"
-      },
-      "type": "gp-section-545874261856748403"
-    },
-    "gp_shopify_original_section_545874541683934368": {
-      "settings": {
-        "checksum": "4fa87d18727842f579ca36419b5e8ff5f4b6e383b183bb1dbb0990923719a7c8_1_1"
-      },
-      "type": "gp-section-545874541683934368"
-    },
-    "gp_shopify_original_section_545875982494466931": {
-      "settings": {
-        "checksum": "b469f3f2a3cef586ee32b82139fc2046b1d4edd7f97ac27ead5cd659d9b2cef5_1_1"
-      },
-      "type": "gp-section-545875982494466931"
-    },
-    "gp_shopify_original_section_545956177335289037": {
-      "settings": {
-        "checksum": "64894ffd9a3a725341e9b2aea9cf1d2746fa4ff8bea4756a1f2b04423f6d96c8_1_1"
-      },
-      "type": "gp-section-545956177335289037"
-    },
-    "gp_shopify_original_section_545957870223491933": {
-      "settings": {
-        "checksum": "b8d715a53076539ceaf0b68da33b754d6833511e3d39442db40916b8fa21a452_1_1"
-      },
-      "type": "gp-section-545957870223491933"
-    },
-    "gp_shopify_original_section_545968500250772317": {
-      "settings": {
-        "checksum": "1350473f8ae47ee6884ba497d6be3a34c6e804d768ca7823d7fac485b8f9c66c_1_1"
-      },
-      "type": "gp-section-545968500250772317"
-    },
-    "gp_shopify_original_section_545969200447881997": {
-      "settings": {
-        "checksum": "9ac60e96642ad3a9064fa960902a5d8520b7219d1f04000620c0cc56b463c0eb_1_1"
-      },
-      "type": "gp-section-545969200447881997"
-    },
-    "gp_shopify_original_section_545969649003529365": {
-      "settings": {
-        "checksum": "34a45a5b4a50d51455757f8f6d45255cfb744c374419e246505b949919a98448_1_1"
-      },
-      "type": "gp-section-545969649003529365"
-    },
-    "gp_shopify_original_section_545971002555761825": {
-      "settings": {
-        "checksum": "454477884056c7605b5ed037125ca305e7f63d9d665cd713bb2a6321374d6d2c_1_1"
-      },
-      "type": "gp-section-545971002555761825"
-    },
-    "gp_shopify_original_section_545971245758284610": {
-      "settings": {
-        "checksum": "3e3ae2688ab402763cde7f906d9d158f7394f5af9c3082a482ced0fcec4069a2_1_1"
-      },
-      "type": "gp-section-545971245758284610"
-    },
-    "gp_shopify_original_section_546012766901633858": {
-      "settings": {
-        "checksum": "8e664ca595ccf39342364c297774cc04dcc4e4da6e3e2ec4caeba6686b34688a_1_1"
-      },
-      "type": "gp-section-546012766901633858"
-    },
-    "gp_shopify_original_section_546441318671320306": {
-      "settings": {
-        "checksum": "42bd25410aee801b066ee69b27df4d5ebbe6f5508c6dea3be079d06b011a7193_1_1"
-      },
-      "type": "gp-section-546441318671320306"
-    },
-    "gp_shopify_original_section_546443897950176498": {
-      "settings": {
-        "checksum": "20fc754105da2460acddc448eba8a8d8f4f8d2df6040b1bba777116d0f8cc675_1_1"
-      },
-      "type": "gp-section-546443897950176498"
-    },
-    "gp_shopify_original_section_546448092388393803": {
-      "settings": {
-        "checksum": "7fc57058e21b741dad6e67202f505cb0dc47ab7980ea2a3ea6027583a7b18dc1_1_1"
-      },
-      "type": "gp-section-546448092388393803"
-    }
-  }
+    "gp_shopify_original_section_545957870223491933",
+    "1736260009647b1ad6"
+  ]
 }
