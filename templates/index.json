@@ -265,7 +265,7 @@
         "essential_countdown_app_block_36ybFM"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     }
   },
