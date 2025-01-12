@@ -178,13 +178,20 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "custom_liquid_LWhfiC": {
-      "type": "custom-liquid",
+    "image_banner_xbGFFE": {
+      "type": "image-banner",
       "settings": {
-        "custom_liquid": "",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-11_at_22.57.44_710bbe42.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -193,6 +200,6 @@
     "image_banner_WRCfjf",
     "multirow_dLw9gx",
     "slideshow_BgETdR",
-    "custom_liquid_LWhfiC"
+    "image_banner_xbGFFE"
   ]
 }
