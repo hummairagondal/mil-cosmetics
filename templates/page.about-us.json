@@ -193,6 +193,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1736866873f749396e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -200,6 +206,7 @@
     "image_banner_WRCfjf",
     "multirow_dLw9gx",
     "slideshow_BgETdR",
-    "image_banner_xbGFFE"
+    "image_banner_xbGFFE",
+    "1736866873f749396e"
   ]
 }
